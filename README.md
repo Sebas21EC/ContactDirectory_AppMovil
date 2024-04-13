@@ -4,16 +4,13 @@
 
 **Materia:** Aplicaciones móviles
 
-**Tema:** Calculadora
+**Tema:** Agenda de contactos
 
-**Desarrollo:** Calculadora realizada en clases.
+**Desarrollo:** Desarrollar una agenda de contactos para una aplicacion móvil android
 
-## Función: 
-Operaciones aritméticas:
-- Suma
-- Resta
-- Multiplicación
-- División
+## Funciones: 
+- Agregar contactos
+- Buscar y leer contactos
 
 ## Capturas
 
